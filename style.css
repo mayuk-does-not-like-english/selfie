@@ -1,0 +1,21 @@
+.footer {
+ position: fixed; 
+ bottom: 0;
+ width: 100%; 
+ text-align: center;
+ color: aqua; 
+}
+
+body{
+background-color: cadetblue; 
+color: black;
+text-align: center;
+font-size: 40px;   
+}
+img{
+box-shadow: 0 18px 20px 0 rgba(2, 2, 2 ,0.5);
+
+}
+img:hover{
+  border-radius: 140px;  
+}
